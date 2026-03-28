@@ -1,0 +1,129 @@
+
+=== HEMOGLOBIN ===
+Hemoglobin carries oxygen in red blood cells. Low hemoglobin (anemia) causes fatigue, weakness, and shortness of breath.
+Normal range: Men 13.5–17.5 g/dL, Women 12.0–15.5 g/dL.
+Low hemoglobin causes: iron deficiency, vitamin B12 or folate deficiency, chronic disease, blood loss.
+Lifestyle tips for low hemoglobin: Increase iron-rich foods (spinach, lentils, red meat), consume vitamin C alongside iron foods, avoid tea/coffee with meals.
+High hemoglobin may indicate dehydration or lung disease.
+
+=== BLOOD GLUCOSE (FASTING) ===
+Fasting blood glucose measures blood sugar after at least 8 hours of not eating.
+Normal: 70–99 mg/dL. Prediabetes: 100–125 mg/dL. Diabetes: ≥126 mg/dL.
+High fasting glucose (hyperglycemia) risk factors: obesity, sedentary lifestyle, high carbohydrate diet, family history.
+Lifestyle tips for high glucose: Reduce refined carbohydrates and sugar, increase physical activity (30 min/day), prefer whole grains, maintain healthy weight.
+Low glucose (hypoglycemia) symptoms: shakiness, sweating, confusion. Causes: skipping meals, excessive insulin, alcohol.
+
+=== HbA1c (GLYCATED HEMOGLOBIN) ===
+HbA1c reflects average blood sugar over 2–3 months.
+Normal: below 5.7%. Prediabetes: 5.7–6.4%. Diabetes: 6.5% and above.
+High HbA1c: suggests poor long-term blood glucose control.
+Lifestyle tips: Consistent low-glycemic diet, regular aerobic exercise, stress management, adequate sleep.
+
+=== CHOLESTEROL (TOTAL) ===
+Total cholesterol is the overall measure of cholesterol in blood.
+Desirable: below 200 mg/dL. Borderline high: 200–239 mg/dL. High: 240 mg/dL and above.
+High cholesterol increases risk of heart disease and stroke.
+Lifestyle tips: Reduce saturated fats, trans fats. Eat more fiber (oats, fruits, vegetables), omega-3 rich foods (fish, flaxseed). Exercise regularly.
+
+=== LDL CHOLESTEROL ===
+LDL ("bad cholesterol") contributes to plaque buildup in arteries.
+Optimal: below 100 mg/dL. High: above 160 mg/dL.
+High LDL risk: heart attack, stroke, atherosclerosis.
+Lifestyle tips: Reduce red meat, full-fat dairy. Eat more plant sterols, soluble fiber, nuts.
+
+=== HDL CHOLESTEROL ===
+HDL ("good cholesterol") helps remove other forms of cholesterol from the bloodstream.
+Low HDL: men below 40 mg/dL, women below 50 mg/dL. High (protective): 60 mg/dL and above.
+Low HDL risk: increased cardiovascular risk.
+Lifestyle tips: Increase aerobic exercise, quit smoking, consume healthy fats (olive oil, avocado).
+
+=== TRIGLYCERIDES ===
+Triglycerides are fats in the blood. High levels increase heart disease risk.
+Normal: below 150 mg/dL. Borderline: 150–199. High: 200–499. Very high: 500+.
+Causes of high triglycerides: obesity, excess carbohydrates/sugar/alcohol, hypothyroidism.
+Lifestyle tips: Reduce alcohol, sugar, refined carbs. Increase fish, fiber, and exercise.
+
+=== CREATININE ===
+Creatinine is a waste product filtered by kidneys. High levels may indicate kidney dysfunction.
+Normal: Men 0.74–1.35 mg/dL, Women 0.59–1.04 mg/dL.
+High creatinine causes: kidney disease, dehydration, high protein diet, intense exercise.
+Lifestyle tips for high creatinine: Stay well hydrated, reduce excessive protein intake, avoid NSAIDs if possible, manage blood pressure and diabetes.
+
+=== UREA / BUN (BLOOD UREA NITROGEN) ===
+BUN measures the amount of urea nitrogen in blood. Indicator of kidney function.
+Normal: 7–20 mg/dL.
+High BUN: kidney disease, dehydration, high protein diet, GI bleeding.
+Low BUN: liver disease, malnutrition.
+Lifestyle tips: Stay hydrated, moderate protein intake, avoid nephrotoxic drugs.
+
+=== ALT (ALANINE AMINOTRANSFERASE) ===
+ALT is a liver enzyme. High levels suggest liver cell damage.
+Normal: 7–56 U/L for adults.
+High ALT causes: fatty liver disease, hepatitis, alcohol use, medications.
+Lifestyle tips: Reduce alcohol, avoid hepatotoxic drugs without guidance, maintain healthy weight, adopt low-fat diet.
+
+=== AST (ASPARTATE AMINOTRANSFERASE) ===
+AST is found in liver, heart, and muscles. Elevated AST suggests liver or heart damage.
+Normal: 10–40 U/L.
+Often evaluated alongside ALT. High AST/ALT ratio may suggest alcohol-related liver disease.
+Lifestyle tips: Same as ALT — reduce alcohol, maintain healthy weight.
+
+=== TSH (THYROID STIMULATING HORMONE) ===
+TSH regulates thyroid hormone production. Abnormal levels indicate thyroid dysfunction.
+Normal range: 0.5–4.5 mIU/L.
+High TSH: hypothyroidism (fatigue, weight gain, cold intolerance, constipation).
+Low TSH: hyperthyroidism (weight loss, rapid heartbeat, anxiety, heat intolerance).
+Lifestyle tips for hypothyroidism: Avoid goitrogenic foods in excess (raw cabbage, soy), ensure adequate iodine and selenium intake.
+
+=== WBC (WHITE BLOOD CELLS) ===
+WBCs are immune system cells. Abnormal counts indicate infection, inflammation, or immune disorders.
+Normal: 4,500–11,000 cells/mcL.
+High WBC (leukocytosis): infection, inflammation, leukemia.
+Low WBC (leukopenia): viral infections, bone marrow conditions, immunosuppressants.
+Lifestyle tips: Adequate sleep, balanced nutrition, manage stress, regular hand hygiene.
+
+=== PLATELETS ===
+Platelets help blood clot. Abnormal platelet counts can cause bleeding or clotting problems.
+Normal: 150,000–400,000 per mcL.
+Low platelets (thrombocytopenia): bleeding risk, causes include dengue, ITP, certain medications.
+High platelets (thrombocytosis): clotting risk, causes include iron deficiency, inflammation.
+Lifestyle tips: Avoid alcohol if low; eat leafy greens, papaya leaf extract (sometimes used for dengue-related thrombocytopenia).
+
+=== SODIUM ===
+Sodium regulates fluid balance and nerve function.
+Normal: 135–145 mEq/L.
+Low sodium (hyponatremia): nausea, headache, confusion. Causes: excessive water, diuretics, kidney issues.
+High sodium (hypernatremia): thirst, confusion. Causes: dehydration, excess sodium intake.
+Lifestyle tips: Reduce processed foods and table salt for high sodium; ensure adequate hydration.
+
+=== POTASSIUM ===
+Potassium is critical for heart and muscle function.
+Normal: 3.5–5.0 mEq/L.
+Low potassium (hypokalemia): muscle weakness, cramps, arrhythmia. Causes: diuretics, vomiting, diarrhea.
+High potassium (hyperkalemia): dangerous cardiac effects. Causes: kidney disease, excess supplementation.
+Lifestyle tips for low potassium: Eat bananas, oranges, potatoes, beans, leafy greens. For high potassium: limit high-potassium foods and consult a physician.
+
+=== VITAMIN D ===
+Vitamin D is essential for bone health, immune function, and mood regulation.
+Normal: 30–100 ng/mL. Deficiency: below 20 ng/mL.
+Deficiency symptoms: fatigue, bone pain, muscle weakness, depression.
+Lifestyle tips: Sun exposure (10–30 min daily), fatty fish, egg yolks, fortified foods. Supplementation is common and effective.
+
+=== VITAMIN B12 ===
+Vitamin B12 is essential for nerve function and red blood cell formation.
+Normal: 200–900 pg/mL. Deficiency: below 200 pg/mL.
+Deficiency causes: veganism/vegetarianism (plant foods lack B12), malabsorption, aging.
+Symptoms: fatigue, numbness, memory issues, anemia.
+Lifestyle tips: Consume meat, fish, eggs, dairy, or fortified plant-based foods. Supplementation is recommended for vegans.
+
+=== IRON / SERUM FERRITIN ===
+Ferritin stores iron in the body. Low ferritin indicates iron deficiency before anemia develops.
+Normal ferritin: Men 24–336 ng/mL, Women 11–307 ng/mL.
+Low ferritin: fatigue, hair loss, poor concentration.
+Lifestyle tips: Iron-rich foods (red meat, legumes, tofu, fortified cereals), pair with vitamin C, avoid calcium with iron-rich meals.
+
+=== URIC ACID ===
+Uric acid is a waste product from purine metabolism. High levels cause gout and kidney stones.
+Normal: Men 3.4–7.0 mg/dL, Women 2.4–6.0 mg/dL.
+High uric acid causes: high purine diet (organ meats, shellfish, alcohol), dehydration, kidney disease.
+Lifestyle tips: Reduce red meat, alcohol (especially beer), sugary drinks. Increase water intake. Maintain healthy weight. Cherries may help reduce uric acid.

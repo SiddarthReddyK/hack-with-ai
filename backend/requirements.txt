@@ -1,0 +1,29 @@
+# AI Health Insight Companion — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Web API / Server ─────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9     # required by FastAPI for file uploads
+
+# ── PDF Processing ───────────────────────────────────────────────────────────
+pdfplumber>=0.11.0
+
+# ── Data Validation ──────────────────────────────────────────────────────────
+pydantic>=2.7.0
+
+# ── LangChain core ───────────────────────────────────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# ── LLM Providers ────────────────────────────────────────────────────────────
+langchain-groq>=0.2.0          # Groq (free tier — llama-3.3-70b-versatile)
+
+# ── FAISS — vector store for RAG ─────────────────────────────────────────────
+faiss-cpu>=1.8.0
+
+# ── Utility ──────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0           # load GROQ_API_KEY from .env file
+reportlab>=4.0.0
